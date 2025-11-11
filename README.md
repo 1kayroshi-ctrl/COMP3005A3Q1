@@ -2,7 +2,7 @@
 Database Interaction with PostgreSQL and Application Programming
 
 
-Run java, make sure your db is up and running. Execute school.java 
+Add the school.java to a project and refactor. make sure your DB is up and running. Execute school.java. 
 note: uses Maven
 
 YT link: https://youtu.be/XncAjsuwfk0
